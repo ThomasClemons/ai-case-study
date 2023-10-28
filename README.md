@@ -4,18 +4,25 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 ## Overview and Origin
 
-### Company
-**JPMorgan Chase & Co.** ![JPM logo](JPM_logo.png)
+### Company  
 
-### Company Profile
-**Chairman & CEO:  ** [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon)
+**JPMorgan Chase & Co.**  
+![JPM logo](JPM_logo.png)
 
-**Stock Symbol:  ** [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM)
+### Company Profile  
 
-**Headquarters:  **
+**Chairman & CEO:  **  [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon)
+
+**Stock Symbol:  **  [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM)
+
+**Headquarters:  **  
+
 **   383 Madison Avenue**
+
 **   New York, NY 10179**
+
 **   United States**
+
 **   212 270 6000**
 
 **Website:  ** [jpmorganchase.com](https://www.jpmorganchase.com)
@@ -24,3 +31,4 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 **Description:  **
 
+<p style="color:blue">Make this text blue.</p>
