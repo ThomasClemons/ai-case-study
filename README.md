@@ -22,6 +22,7 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 **Employees:**   308,669
 
+| ### Company Profile | | 
 | --- | --- |
 | **Chariman & CEO** | [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon") |
 | **Stock Symbol** | [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM "https://finance.yahoo.com/quote/JPM?p=JPM") |
