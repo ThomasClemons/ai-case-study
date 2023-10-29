@@ -6,23 +6,11 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 ## Overview and Origin
 
+JPMorgan Chase & Co. is an American multinational financial services firm headquartered in New York City. It is the largest bank in the United States and the world's largest bank by market capitalization as of 2023.  As the largest of the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks, the firm is considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board. Its size and scale have often led to enhanced regulatory oversight as well as the maintenance of an internal ["Fortress Balance Sheet"](https://www.youtube.com/watch?v=G8DvO205ZU0 "https://www.youtube.com/watch?v=G8DvO205ZU0") of capital reserves. [Wikipedia](https://en.wikipedia.org/wiki/JPMorgan_Chase "https://en.wikipedia.org/wiki/JPMorgan_Chase")
+
 ### Company Profile
 
-**Chairman & CEO:** [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon")
-
-**Stock Symbol:** [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM "https://finance.yahoo.com/quote/JPM?p=JPM")
-
-**Headquarters:**  
-   323 Madison Avenue    
-   New York, NY 10179    
-   United States  
-   212 270 6000  
-
-**Website:** [jpmorganchase.com](https://www.jpmorganchase.com "https://www.jpmorganchase.com")
-
-**Employees:**   308,669
-
-| **Company Profile** | | 
+| | | 
 | --- | --- |
 | **Chairman & CEO** | [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon") |
 | **Stock Symbol** | [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM "https://finance.yahoo.com/quote/JPM?p=JPM") |
@@ -31,10 +19,9 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 | | United States | 
 | | 212 270 6000  |
 | **Website** | [jpmorganchase.com](https://www.jpmorganchase.com "https://www.jpmorganchase.com") |
-| Industry | **Major International Banks** |
-| Sector | **Financial Services** |
-| Fiscal Year-End **12/2023** | Revenue **$157.54B** |
-| Net Income **$37.49B** | 2022 Sales Growth **24.82%** |
+| **Industry** Major International Banks | **Sector** Financial Services |
+| **Fiscal Year-End** 12/2023 | **Revenue** $157.54B |
+| **Net Income** $37.49B | **2022 Sales Growth** 24.82% |
 | **Employees** | 308,669 |
 
 ### Company History
