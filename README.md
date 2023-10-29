@@ -8,7 +8,7 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 ### Company Profile
 
-**Chariman & CEO:** [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon")
+**Chairman & CEO:** [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon")
 
 **Stock Symbol:** [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM "https://finance.yahoo.com/quote/JPM?p=JPM")
 
@@ -24,7 +24,7 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 | **Company Profile** | | 
 | --- | --- |
-| **Chariman & CEO** | [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon") |
+| **Chairman & CEO** | [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon "https://www.jpmorganchase.com/about/our-leadership/jamie-dimon") |
 | **Stock Symbol** | [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM "https://finance.yahoo.com/quote/JPM?p=JPM") |
 | **Headquarters** | 323 Madison Avenue |    
 | | New York, NY 10179 |   
