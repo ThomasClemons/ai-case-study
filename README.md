@@ -9,11 +9,12 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 **JPMorgan Chase & Co.**  
 ![JPM logo](JPM_logo.png)
 
-### Company Profile  
+### Company Profile
 
-**Chairman & CEO:  **  [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon)
+**Chariman & CEO:** [Jamie Dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon)
 
-**Stock Symbol:  **  [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM)
+**Stock Symbol:  **
+  [JPM (NYSE)](https://finance.yahoo.com/quote/JPM?p=JPM)
 
 **Headquarters:  **  
 
@@ -30,5 +31,3 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 **Employees:  308,669  **
 
 **Description:  **
-
-<p style="color:blue">Make this text blue.</p>
