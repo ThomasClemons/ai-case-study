@@ -29,8 +29,7 @@ JPMorgan Chase & Co. is an American multinational financial services firm headqu
 
 ### Company History
 
-**Company Incorporation:**
-
+**Company Incorporation:**  
 Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan Corporation. The new firm was named J.P. Morgan Chase & Co.
 
 **Incorporation History:**
@@ -57,7 +56,7 @@ Financial services companies make money in two ways:
 - Interest charged on customer loans
 - Fees charged for customer products and services
 
-JP Morgan & Co. does an excellent job of managing their capital to offer a broad range of financial products and services in each of their business segments.
+JP Morgan & Co. does an excellent job of managing their capital to offer a broad range of financial products and services to customers in each of their business segments.
 
 **Company Business Segments**
 
