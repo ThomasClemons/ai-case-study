@@ -42,7 +42,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 - John Pierpont Morgan (J.P. Morgan & Co.)
 - John Thompson (Chase National Bank)
 
-### Fun Fact
+**Fun Fact**
 *Believe it or not, JPMorgan Chase & Co. started as a water business.  The Manhattan Company was founded in 1799 for the purpose of providing quality drinking water.  Who would have guessed that it would grow into the world's the fifth-largest banking institution with $3.9 trillion in total assets.* 
 
 > **1799**  
@@ -50,7 +50,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 > - The Manhattan Company, JPMorgan Chase's earliest predecessor institution, is chartered by the New York State legislature to supply "pure and wholesome" drinking water to the city's growing population.  Among its founders are Alexander Hamilton and Aaron Burr.  
 > - A provision in the charter allows The Manhattan Company to use its surplus capital for banking operations.  Within five months, The Bank of The Manhattan Company opens for business, becoming the second commercial bank in New York City after Hamilton’s Bank of New York. [JPMorgan Chase](https://www.jpmorganchase.com/about/our-history "https://www.jpmorganchase.com/about/our-history")
 
-## Business Activities
+## Company Business Structure, Profitablity, and Technology
 
 ### Company Business Structure 
 Financial services companies make money in two ways:
@@ -68,27 +68,47 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 >> - The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, estate planning, lending, deposits, and investment management products.
 >> - The company also provides ATM, online and mobile, and telephone banking services. [Yahoo! Finance](https://finance.yahoo.com/quote/JPM/profile?p=JPM "https://finance.yahoo.com/quote/JPM/profile?p=JPM")
 
-**Company Profitability**
+### Company Profitability
 
-**Company Technologies and Investment**
+**Topic 1 Company Profitablitiy**
+
+### Company Technologies and Investment
+
+**Topic 1 Technology and Investment**
 
 ## Financial Services Landscape
 
-**Major Trends and Innovations in Financial Services**
+### Major Trends and Innovations in Financial Services
 
-**Key Competitors**
+**Topic 1 Major Trends and Innovations in Financial Services**
+
+### Key Competitors
+
+**Topic 1 Key Competitors**
 
 ## Business Impact and Financial Performance
 
-**JPM Business Impact**
+### JPM Business Impact
 - Include historical impact
 - More current impact
 
-**Core Metrics used to measure Financial Services success?**
+### Core Metrics used to measure Financial Services success?
 
-**Competitive analysis of how JPM performing vs. the competitors**
+### Competitive analysis of how JPM performing vs. the competitors
 
 ## Recommendations
+
+### Recommendation 1
+
+**What products and services would I suggest JPM offer?**
+
+**Why would these products and services benefit JPM?**
+
+**What technology would this new product or service require?**
+
+**Why are the technologies appropriate for my solution?**
+
+### Recommendation 2
 
 **What products and services would I suggest JPM offer?**
 
