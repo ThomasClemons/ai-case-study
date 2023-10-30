@@ -19,10 +19,12 @@ JPMorgan Chase & Co. is an American multinational financial services firm headqu
 | | United States | 
 | | 212 270 6000  |
 | **Website** | [jpmorganchase.com](https://www.jpmorganchase.com "https://www.jpmorganchase.com") |
-| **Industry** Major International Banks | **Sector** Financial Services |
+| | |
+| **Industry** | Major International Banks |
+| **Sector** | Financial Services |
 | **Fiscal Year-End** 12/2023 | **Revenue** $157.54B |
 | **Net Income** $37.49B | **2022 Sales Growth** 24.82% |
-| **Employees** | 308,669 |
+| **Employees** 308,669 | |
 
 ### Company History
 
@@ -49,18 +51,51 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 
 ## Business Activities
 
-**Company Business Segments:**
+### Company Business Structure 
+Financial services companies make money in two ways:
+- Interest charged on customer loans
+- Fees charged for customer products and service
 
-> JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through four segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM).
+JP Morgan & Co. does an excellent job of managing their capital to offer a broad range of financial products and services in each of their business segments.
+
+**Company Business Segments**
+
+> JPMorgan Chase & Co. operates as a financial services company worldwide.  It operates through four segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM).
 >> - The CCB segment offers deposit, investment and lending products, cash management, and payments and services to consumers and small businesses; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit cards, auto loans, leases, and travel services.
 >> - The CIB segment provides investment banking products and services, including corporate strategy and structure advisory, and equity and debt markets capital-raising services, as well as loan origination and syndication; payments and cross-border financing; and cash and derivative instruments, risk management solutions, prime brokerage, and research. This segment also offers securities services, including custody, fund accounting and administration, and securities lending products for asset managers, insurance companies, and public and private investment funds.
 >> - The CB segment provides financial solutions, including lending, payments, investment banking, and asset management to small and midsized companies, local governments, nonprofit clients, and large corporations; and commercial real estate banking services to investors, developers, and owners of multifamily, office, retail, industrial, and affordable housing properties.
 >> - The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, estate planning, lending, deposits, and investment management products.
 >> - The company also provides ATM, online and mobile, and telephone banking services. [Yahoo! Finance](https://finance.yahoo.com/quote/JPM/profile?p=JPM "https://finance.yahoo.com/quote/JPM/profile?p=JPM")
 
-**Company Performance**
+**Company Profitability**
 
+**Company Technologies and Investment**
 
+## Landscape
+
+**Major Trends and Innovations in Financial Services**
+
+**Key Competitors**
+
+## Results
+
+**JPM Business Impact**
+- Include historical impact
+- More current impact
+
+**Core Metrics used to measure Financial Services success?**
+
+**Competitive analysis of how JPM performing vs. the competitors**
+
+## Recommendations
+
+**What products and services would I suggest JPM offer?**
+
+**Why would these products and services benefit JPM?**
+
+**What technology would this new product or service require?**
+
+**Why are the technologies appropriate for my solution?**
 
 
 **END OF FILE**
