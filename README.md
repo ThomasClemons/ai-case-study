@@ -24,7 +24,7 @@ JPMorgan Chase & Co. is an American multinational financial services firm headqu
 | **Sector** | Financial Services |
 | **Employees** | 308,669 |
 | | |
-| **2022 Fiscal Year-End** | |
+| **2022 Fiscal Year-End:** | |
 | **Total Assets** $3.67T | **Average Deposits** $2.38T |
 | **Revenue** $157.54B | **Net Income** $37.49B |
 | **Sales Growth** 24.82% | |
