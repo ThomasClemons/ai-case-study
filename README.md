@@ -67,9 +67,9 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 >> - The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, estate planning, lending, deposits, and investment management products.
 >> - The company also provides ATM, online and mobile, and telephone banking services. [Yahoo! Finance](https://finance.yahoo.com/quote/JPM/profile?p=JPM "https://finance.yahoo.com/quote/JPM/profile?p=JPM")
 
-### Business Segment Contribution to Company Profitability (Year-end 2022)
+**Business Segment Contribution to Company Profitability (Year-end 2022)**
 
-| Business Segment| Net Income ($ millions) | Percent of Company Income | 
+| Business Segment| Net Income ($ millions) | % Contribution to Company Income | 
 | --- | :-: | :-: |
 | Community Banking (CCB) | $ 14,871 | 38.7 % |
 | Corporate & Investment Bank (CIB) | $ 14,970 | 39.0 % |
