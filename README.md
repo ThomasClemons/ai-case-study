@@ -22,6 +22,7 @@ JPMorgan Chase & Co. is an American multinational financial services firm headqu
 | | |
 | **Industry** | Major International Banks |
 | **Sector** | Financial Services |
+| | |
 | **Fiscal Year-End** 12/2023 | **Revenue** $157.54B |
 | **Net Income** $37.49B | **2022 Sales Growth** 24.82% |
 | **Employees** 308,669 | |
@@ -71,13 +72,13 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 
 **Company Technologies and Investment**
 
-## Landscape
+## Financial Services Landscape
 
 **Major Trends and Innovations in Financial Services**
 
 **Key Competitors**
 
-## Results
+## Business Impact and Financial Performance
 
 **JPM Business Impact**
 - Include historical impact
