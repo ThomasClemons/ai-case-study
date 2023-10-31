@@ -52,7 +52,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 > - The Manhattan Company, JPMorgan Chase's earliest predecessor institution, is chartered by the New York State legislature to supply "pure and wholesome" drinking water to the city's growing population.  Among its founders are Alexander Hamilton and Aaron Burr.  
 > - A provision in the charter allows The Manhattan Company to use its surplus capital for banking operations.  Within five months, The Bank of The Manhattan Company opens for business, becoming the second commercial bank in New York City after Hamilton’s Bank of New York. [JPMorgan Chase](https://www.jpmorganchase.com/about/our-history "https://www.jpmorganchase.com/about/our-history")
 
-## Company Business Structure, Profitablity, and Technology
+## Company Business Structure, Profitability, and Technology
 
 ### Company Business Structure 
 Financial services companies make money in two primary ways:
@@ -88,23 +88,23 @@ JPMorgan Chase does an excellent job of managing its capital to offer a broad ra
 ### Company Technologies and Investment
 
 **Company Commitment to AI**  
-> Artificial intelligence (AI) is an extraordinary and groundbreaking technology. AI and the raw material that feeds it, data, will be critical to our company’s future success — the importance of implementing new technologies simply cannot be overstated. [Jamie Dimon, JPMorgan Chase Chariman and CEO](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm# "JPMorgan Chase 2022 Annual Report CEO Letter")
+> Artificial intelligence (AI) is an extraordinary and groundbreaking technology. AI and the raw material that feeds it, data, will be critical to our company’s future success — the importance of implementing new technologies simply cannot be overstated. [Jamie Dimon, JPMorgan Chase Chairman and CEO](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm# "JPMorgan Chase 2022 Annual Report CEO Letter")
 
-> We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMogan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+> We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMorgan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 **Company Investment in AI**  
 
 From top to bottom JPMorgan Chase is firmly committed to AI.  My research identified the following:
 - It will deliver more than $1.5 billion in business value from artificial intelligence and machine learning efforts in 2023 as it leverages its 500 petabytes of data across 300 use cases in production.
 - It will invest $15.3 billion in technology in 2023.
-- The Technology budget has grown at a 7% annually over that last four years.
+- The Technology budget has grown at a 7% annual rate over the last four years.
  [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 The key pillars of the JPMorgan Chase digital transformation strategy are:  
 - **Application Renewal** - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
 - **Infrastructure Modernization** - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
 - **Engineering** - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
-- **Data and AI** - AI has helped JPMorgan Chase deliver more personlized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+- **Data and AI** - AI has helped JPMorgan Chase deliver more personalized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 ## Financial Services Landscape
 
@@ -128,7 +128,7 @@ Major Competitors of JPMorgan Chase are:
 - [Citigroup](https://www.citigroup.com/global "Learn about Citigroup")
 - [Wells Fargo](https://www.wellsfargo.com/about/ "Learn about Wells Fargo")
 
-JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  This size and scale hasw often led to enhanced regulatory oversight.
+JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  This size and scale has often led to enhanced regulatory oversight.
 
 ## Business Impact, Financial Performance, and Competitive Analysis
 
@@ -169,14 +169,14 @@ Observations:
 ## Recommendation
 
 - JPMorgan Chase is head and shoulders above all financial services companies in the US.  It has a clear vision and is moving at an accelerated pace to deliver on company goals.
-- I recommend that JPMorgan Chase share its AI and ML insights with other US banks in areas the will not impact its competitive advantage.  Common areas that won't impact competitive advantage are:
+- I recommend that JPMorgan Chase share its AI and ML insights with other US banks in areas that will not impact its competitive advantage.  Common areas that won't impact competitive advantage are:
     - Risk Management
     - Fraud Detection
     - Cybersecurity
     - Regulatory Reporting
 - The US banking system would benefit in the following ways:
     - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up industry growth in AI/ML.
-    - **Reduced Technology cost** - Most US banks have limited capital and can only fund the staff and supporting technologies for small, incremental advancements in AI/ML.  Sharing insights with other banks can lead to larger, more significant advancements in AI/ML across the industry, allowing banks to better leverage available captital.
+    - **Reduced Technology cost** - Most US banks have limited capital and can only fund the staff and supporting technologies for small, incremental advancements in AI/ML.  Sharing insights with other banks can lead to larger, more significant advancements in AI/ML across the industry, allowing banks to better leverage available capital.
     - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk by making systems more secure and reducing credit losses.
     - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet rigorous, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify regulatory rule changes and overlaps between different regulatory reports to accelerate business process and regulatory reporting changes to maintain compliance. 
 
@@ -207,7 +207,7 @@ Observations:
 **Citigroup:**  
 - Citigroup Company Website - [https://www.citigroup.com/global](https://www.citigroup.com/global)
 - Citigroup Earnings - [https://www.citigroup.com/global/investors/quarterly-earnings](https://www.citigroup.com/global/investors/quarterly-earnings)
-- Citgroup Earnings - [https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf)
+- Citigroup Earnings - [https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf)
 - Citigroup 2022 Annual Report - [https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf)
 - Citigroup Fixed Income Ratings - [https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings](https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings)
 - Citigroup Yahoo Finance - [https://finance.yahoo.com/quote/C?p=C](https://finance.yahoo.com/quote/C?p=C)
