@@ -91,6 +91,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 > We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMogan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 **Company Investment in AI**  
+
 From top to bottom JPMorgan Chase is firmly committed to AI.  My research identified the following:
 - It will deliver more than $1.5 billion in business value from artificial intelligence and machine learning efforts in 2023 as it leverages its 500 petabytes of data across 300 use cases in production.
 - It will invest $15.3 billion in technology in 2023.
@@ -118,9 +119,27 @@ The key pillars of the JP Morgan Chase are:
 - Metaverse in finance
 - Financial super applications  [LinkedIn](https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services. "Latest Trends of Finance Industry - LinkedIn")
 
-### Key Competitors
+### Major Competitors
 
-**Topic 1 Key Competitors**
+JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.  A chart of key financial performance indicators and metrics follow in the chart below.
+
+**Financial Performance - JPMorgan vs Major Competitors**
+| Key Indicators| JPMorgan | Bank of America | Citigroup | Wells Fargo | 
+| --- | :-: | :-: | :-: | :-: |
+| Net Income ($ billions) | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
+| Diluted EPS ($) | $ 12.09 | $ 3.19B | $ 7.00 | $ 3.14 |
+| ROTCE | 17.7% | 15.1% | 8.9% | 9.0% |
+| Total Assets ($ billions) | $ 3.67T | $ 3.05T | $ 2.4T | $1.88T |
+| Market Cap ($ billions) | $ 394.3B | $ 199.4B | $ 73.2B | $ 141.0B |
+| Technology Expense ($ billions) | $ 9.4B | $ 3.6B | $ 8.6B | $3.4B |
+
+**Moody's Credit Quality - JPMorgan vs Major Competitors**
+| Company |  JPMorgan | Bank of America | Citigroup | Wells Fargo | 
+| --- | :-: | :-: | :-: | :-: |
+| Outlook | Stable | Stable | Stable | Stable |
+| Long-Term Senior Debt | Aa3 | A1 | A3 | A1 |
+| Short-Term Debt | P-1 | P-1 | P-2 | P-1 |
+
 
 ## Business Impact and Financial Performance
 
