@@ -90,7 +90,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 
 > We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMogan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
-**Company Investment in AI**
+**Company Investment in AI**  
 From top to bottom JPMorgan Chase is firmly committed to AI.  My research identified the following:
 - It will deliver more than $1.5 billion in business value from artificial intelligence and machine learning efforts in 2023 as it leverages its 500 petabytes of data across 300 use cases in production.
 - It will invest $15.3 billion in technology in 2023.
