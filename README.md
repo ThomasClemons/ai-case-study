@@ -72,7 +72,7 @@ JPMorgan Chase does an excellent job of managing their capital to offer a broad 
 >> - The company also provides ATM, online and mobile, and telephone banking services. [Yahoo! Finance](https://finance.yahoo.com/quote/JPM/profile?p=JPM "https://finance.yahoo.com/quote/JPM/profile?p=JPM")
 
 
-**Business Segment Contribution to Company Profitability (Year-end 2022)**
+**Business Segment Contribution to Company Profitability (Year-End 2022)**
 
 | **Business Segment** | **Net Income ($ millions)** | **% Contribution to Company Income** | 
 | --- | :-: | :-: |
