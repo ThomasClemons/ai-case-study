@@ -55,7 +55,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 ## Company Business Structure, Profitablity, and Technology
 
 ### Company Business Structure 
-Financial services companies make money in two ways:
+Financial services companies make money in two primary ways:
 - Interest charged on customer loans
 - Fees charged for customer products and services
 
@@ -123,7 +123,7 @@ The key pillars of the JPMorgan Chase digital transformation strategy are:
 
 ### Major Competitors
 
-JPMorgan Chase major competitors are:
+Major Competitors of JPMorgan Chase are:
 - [Bank of America](https://about.bankofamerica.com/en "Learn about Bank of America")
 - [Citigroup](https://www.citigroup.com/global "Learn about Citigroup")
 - [Wells Fargo](https://www.wellsfargo.com/about/ "Learn about Wells Fargo")
@@ -134,7 +134,7 @@ JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](h
 
 ### Business Impact
 
-JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  How JPMorgan Chase intends to do it:
+JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  This is how JPMorgan Chase demonstrates it:
 - **Community Development** - Through lending, investment and philanthropic capital, it supports affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
 - **Careers & Skills** - From employee upskilling to policy advocacy, it invests in people by equipping them with the tools and skills they need to prepare them for the future of work.
 - **Business Growth & Entrepreneurship** - Boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
@@ -168,7 +168,7 @@ Observations:
 
 ## Recommendation
 
-- JPMorgan Chase is head and shoulders above all financial services companies in the US.  It has a clear vision and are moving at an accelerated pace to deliver on company goals.
+- JPMorgan Chase is head and shoulders above all financial services companies in the US.  It has a clear vision and is moving at an accelerated pace to deliver on company goals.
 - I recommend that JPMorgan Chase share its AI and ML insights with other US banks in areas the will not impact its competitive advantage.  Common areas that won't impact competitive advantage are:
     - Risk Management
     - Fraud Detection
@@ -176,9 +176,9 @@ Observations:
     - Regulatory Reporting
 - The US banking system would benefit in the following ways:
     - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up industry growth in AI/ML.
-    - **Reduced Technology cost** - Most US banks have limited capital to fund staff and supporting technoloy for AI/ML.  Sharing insights with other banks will allow them to preserve captital and allocate it where it is needed.
-    - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk, make systems more secure, and reduce fraud losses.
-    - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet our rigorus, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify rule changes and overlaps between different regulatory reports to accelerate business process and reporting changes to maintain compliance. 
+    - **Reduced Technology cost** - Most US banks have limited capital and can only fund the staff and supporting technologies for small, incremental advancements in AI/ML.  Sharing insights with other banks can lead to larger, more significant advancements in AI/ML across the industry, allowing banks to better leverage available captital.
+    - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk by making systems more secure and reducing credit losses.
+    - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet rigorous, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify regulatory rule changes and overlaps between different regulatory reports to accelerate business process and regulatory reporting changes to maintain compliance. 
 
 ## References
 
