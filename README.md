@@ -59,7 +59,7 @@ Financial services companies make money in two ways:
 - Interest charged on customer loans
 - Fees charged for customer products and services
 
-JPMorgan Chase does an excellent job of managing their capital to offer a broad range of financial products and services to customers in each of their business segments.
+JPMorgan Chase does an excellent job of managing its capital to offer a broad range of financial products and services to customers in each of its business segments.
 
 
 **Company Business Segments**
@@ -97,10 +97,10 @@ JPMorgan Chase does an excellent job of managing their capital to offer a broad 
 From top to bottom JPMorgan Chase is firmly committed to AI.  My research identified the following:
 - It will deliver more than $1.5 billion in business value from artificial intelligence and machine learning efforts in 2023 as it leverages its 500 petabytes of data across 300 use cases in production.
 - It will invest $15.3 billion in technology in 2023.
-- The Technology budget has grown at a 7% annually over that last four years. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+- The Technology budget has grown at a 7% annually over that last four years.
+ [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
-
-The key pillars of the JPMorgan Chase are:  
+The key pillars of the JPMorgan Chase digital transformation strategy are:  
 - **Application Renewal** - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
 - **Infrastructure Modernization** - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
 - **Engineering** - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
@@ -128,18 +128,18 @@ JPMorgan Chase major competitors are:
 - [Citigroup](https://www.citigroup.com/global "Learn about Citigroup")
 - [Wells Fargo](https://www.wellsfargo.com/about/ "Learn about Wells Fargo")
 
-JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
+JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  This size and scale hasw often led to enhanced regulatory oversight.
 
 ## Business Impact, Financial Performance, and Competitive Analysis
 
 ### Business Impact
 
-JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  How they intend to do it:
-- **Community Development** - Through lending, investment and philanthropic capital, they’re supporting affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
-- **Careers & Skills** - From employee upskilling to policy advocacy, they are investing in people by equipping them with the tools and skills they need to prepare them for the future of work.
+JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  How JPMorgan Chase intends to do it:
+- **Community Development** - Through lending, investment and philanthropic capital, it supports affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
+- **Careers & Skills** - From employee upskilling to policy advocacy, it invests in people by equipping them with the tools and skills they need to prepare them for the future of work.
 - **Business Growth & Entrepreneurship** - Boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
 - **Financial Health & Wealth Creation** - Opening access to banking in underserved communities and partnering with community organizations to help all generations create a vision and foundation for their financial future.
-- **Environmental Sustainability** - Applying their capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. [JPMorgan Chase](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow. "JPMorgan Chase Our Impact")
+- **Environmental Sustainability** - Applying its capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. [JPMorgan Chase](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow. "JPMorgan Chase Our Impact")
 
 ### Competitive Analysis
 
@@ -164,18 +164,18 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 Observations:
 - JPMorgan Chase outperforms its competitors in virtually every category.
 - JPMorgan Chase far exceeds its competitors in AI/ML investment.
-- JPMorgan Chase leadership has a clear vision of where they want to go and they moving at an accelerated pace when compared with their competitors.
+- JPMorgan Chase leadership has a clear vision of where it wants to go and it is moving at an accelerated pace when compared with its competitors.
 
 ## Recommendation
 
-- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and are moving at an accelerated pace to deliver on their goals.
-- I recommend that JPMorgan Chase share their AI and ML insights with other US banks in areas the will not impact their competitive advantage.  Common areas that won't impact competitive advantage are:
+- JPMorgan Chase is head and shoulders above all financial services companies in the US.  It has a clear vision and are moving at an accelerated pace to deliver on company goals.
+- I recommend that JPMorgan Chase share its AI and ML insights with other US banks in areas the will not impact its competitive advantage.  Common areas that won't impact competitive advantage are:
     - Risk Management
     - Fraud Detection
     - Cybersecurity
     - Regulatory Reporting
 - The US banking system would benefit in the following ways:
-    - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up their growth in AI/ML.
+    - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up industry growth in AI/ML.
     - **Reduced Technology cost** - Most US banks have limited capital to fund staff and supporting technoloy for AI/ML.  Sharing insights with other banks will allow them to preserve captital and allocate it where it is needed.
     - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk, make systems more secure, and reduce fraud losses.
     - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet our rigorus, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify rule changes and overlaps between different regulatory reports to accelerate business process and reporting changes to maintain compliance. 
