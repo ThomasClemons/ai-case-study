@@ -85,13 +85,38 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 
 ### Company Technologies and Investment
 
-**Topic 1 Technology and Investment**
+**Company Commitment to AI**
+> Artificial intelligence (AI) is an extraordinary and groundbreaking technology. AI and the raw material that feeds it, data, will be critical to our company’s future success — the importance of implementing new technologies simply cannot be overstated. [Jamie Dimon, JPMorgan Chase Chariman and CEO](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm# "JPMorgan Chase & Co. 2022 Annual Report CEO Letter")
+
+> We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMogan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+
+**Company Investment in AI**
+From top to bottom JPMorgan Chase is firmly committed to AI.  My research identified the following:
+- It will deliver more than $1.5 billion in business value from artificial intelligence and machine learning efforts in 2023 as it leverages its 500 petabytes of data across 300 use cases in production.
+- It will invest $15.3 billion in technology in 2023.
+- The Technology budget has grown at a 7% annually over that last four years. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+
+The key pillars of the JP Morgan Chase are:
+- Application Renewal - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
+- Infrastructure Modernization - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
+- Engineering - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
+- Data and AI - AI has helped JPMorgan Chase deliver more personlized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
+
 
 ## Financial Services Landscape
 
 ### Major Trends and Innovations in Financial Services
 
-**Topic 1 Major Trends and Innovations in Financial Services**
+**Latest Industry Trends in Financial Services**
+- Open Banking and Embedded Finance
+- Artificial Intelligence and Machine Learning
+- Hyper-automated banking with Robotic Process Automation (RPA)
+- Buy Now Pay Later (BNPL) 2.0
+- Futher advent of cloud and digitalization in financial services
+- Distributed Ledger Technology (DLT)
+- Regulatory Technology (RegTech)
+- Metaverse in finance
+- Financial super applications  [LinkedIn](https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services. "Latest Trends of Finance Industry - LinkedIn")
 
 ### Key Competitors
 
