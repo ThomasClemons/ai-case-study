@@ -6,7 +6,7 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 
 ## Overview and Origin
 
-JPMorgan Chase & Co. is an American multinational financial services firm headquartered in New York City. It is the largest bank in the United States and the world's largest bank by market capitalization as of 2023.  As the largest of the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks, the firm is considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board. Its size and scale have often led to enhanced regulatory oversight as well as the maintenance of an internal ["Fortress Balance Sheet"](https://www.youtube.com/watch?v=G8DvO205ZU0 "https://www.youtube.com/watch?v=G8DvO205ZU0") of capital reserves. [Wikipedia](https://en.wikipedia.org/wiki/JPMorgan_Chase "https://en.wikipedia.org/wiki/JPMorgan_Chase")
+JPMorgan Chase & Co. is an American multinational financial services firm headquartered in New York City. It is the largest bank in the United States and the world's largest bank by market capitalization as of 2023.  As the largest of the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks, the firm is considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board. Its size and scale have often led to enhanced regulatory oversight as well as the maintenance of an internal ["Fortress Balance Sheet"](https://www.youtube.com/watch?v=G8DvO205ZU0 "https://www.youtube.com/watch?v=G8DvO205ZU0") of capital reserves. [Wikipedia](https://en.wikipedia.org/wiki/JPMorgan_Chase "https://en.wikipedia.org/wiki/JPMorgan_Chase")
 
 ### Company Profile
 
@@ -37,6 +37,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 **Incorporation History:**
 >JPMorgan Chase, in its current structure, is the result of the combination of several large U.S. banking companies, merged since 1996, combining Chase Manhattan Bank, J.P. Morgan & Co., and Bank One, as well as asset assumptions of Bear Stearns, Washington Mutual, and First Republic. Predecessors include additional historic, major banking firms, among which are Chemical Bank, Manufacturers Hanover, First Chicago Bank, National Bank of Detroit, Texas Commerce Bank, Providian Financial and Great Western Bank. The company's oldest predecessor institution, The Bank of the Manhattan Company, was the third oldest banking corporation in the United States, and the 31st oldest bank in the world, having been established on September 1, 1799, by Aaron Burr. [Wikipedia](https://en.wikipedia.org/wiki/JPMorgan_Chase "https://en.wikipedia.org/wiki/JPMorgan_Chase")
 
+
 **Company Founders:**
 - Aaron Burr (Bank of the Manhattan Company)
 - Balthazar P. Melick, John C. Morrison, Mark Spenser, Gerardus Post, James Jenkins, William A. Seely, and William Stebbins (Chemical Bank)
@@ -44,7 +45,7 @@ Dec 31, 2000 -- J.P. Morgan & Co. Incorporated merged with The Chase Manhattan C
 - John Thompson (Chase National Bank)
 
 **Fun Fact**  
-*Believe it or not, JPMorgan Chase & Co. started as a water business.  The Manhattan Company was founded in 1799 for the purpose of providing quality drinking water.  Who would have guessed that it would grow into the world's the fifth-largest banking institution with $3.9 trillion in total assets.* 
+*Believe it or not, JPMorgan Chase & Co. started as a water business.  The Manhattan Company was founded in 1799 for the purpose of providing quality drinking water.  Who would have guessed that it would grow into the world's the fifth-largest banking institution with $3.67 trillion in total assets.* 
 
 > **1799**  
 > **The Manhattan Company is founded**  
@@ -58,7 +59,8 @@ Financial services companies make money in two ways:
 - Interest charged on customer loans
 - Fees charged for customer products and services
 
-JP Morgan & Co. does an excellent job of managing their capital to offer a broad range of financial products and services to customers in each of their business segments.
+JPMorgan Chase does an excellent job of managing their capital to offer a broad range of financial products and services to customers in each of their business segments.
+
 
 **Company Business Segments**
 
@@ -68,6 +70,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 >> - The CB segment provides financial solutions, including lending, payments, investment banking, and asset management to small and midsized companies, local governments, nonprofit clients, and large corporations; and commercial real estate banking services to investors, developers, and owners of multifamily, office, retail, industrial, and affordable housing properties.
 >> - The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, estate planning, lending, deposits, and investment management products.
 >> - The company also provides ATM, online and mobile, and telephone banking services. [Yahoo! Finance](https://finance.yahoo.com/quote/JPM/profile?p=JPM "https://finance.yahoo.com/quote/JPM/profile?p=JPM")
+
 
 **Business Segment Contribution to Company Profitability (Year-end 2022)**
 
@@ -80,7 +83,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 | | |
 | Note: | | |
 | Corporate Operations| $ (743) | |
-| JP Morgan Chase & Co. | $ 37,676 | |
+| JPMorgan Chase & Co. | $ 37,676 | |
 
 ### Company Technologies and Investment
 
@@ -96,8 +99,9 @@ From top to bottom JPMorgan Chase is firmly committed to AI.  My research identi
 - It will invest $15.3 billion in technology in 2023.
 - The Technology budget has grown at a 7% annually over that last four years. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
-The key pillars of the JP Morgan Chase are:
--**Application Renewal** - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
+
+The key pillars of the JPMorgan Chase are:  
+- **Application Renewal** - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
 - **Infrastructure Modernization** - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
 - **Engineering** - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
 - **Data and AI** - AI has helped JPMorgan Chase deliver more personlized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
@@ -119,12 +123,12 @@ The key pillars of the JP Morgan Chase are:
 
 ### Major Competitors
 
-The major competitors for JP Morgan Chase are:
+JPMorgan Chase major competitors are:
 - Bank of America
 - Citigroup
-- and Wells Fargo
+- Wells Fargo
 
-JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
+JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
 
 ## Business Impact, Financial Performance, and Competitive Analysis
 
@@ -135,11 +139,11 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 - **Careers & Skills** - From employee upskilling to policy advocacy, we’re investing in people by equipping them with the tools and skills they need to prepare them for the future of work.
 - **Business Growth & Entrepreneurship** - We’re boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
 - **Financial Health & Wealth Creation** - We’re opening access to banking in underserved communities and partnering with community organizations to help all generations create a vision and foundation for their financial future.
-- **Environmental Sustainability** - We’re applying our capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. 
+- **Environmental Sustainability** - We’re applying our capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. [JPMorgan Chase](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow. "JPMorgan Chase Our Impact")
 
-### Competitive analysis
+### Competitive Analysis
 
-**Financial Performance - JPMorgan vs Major Competitors**
+**Financial Performance - JPMorgan Chase vs Major Competitors**
 | **Key Indicators** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
 | --- | :-: | :-: | :-: | :-: |
 | **Net Income ($ billions)** | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
@@ -149,24 +153,24 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 | **Market Cap ($ billions)** | $ 394.3B | $ 199.4B | $ 73.2B | $ 141.0B |
 | **Technology Expense ($ billions)** | $ 9.4B | $ 3.6B | $ 8.6B | $3.4B |
 
-**Moody's Credit Quality - JPMorgan vs Major Competitors**
+
+**Moody's Credit Quality - JPMorgan Chase vs Major Competitors**
 | **Company** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
 | --- | :-: | :-: | :-: | :-: |
 | **Outlook** | Stable | Stable | Stable | Stable |
 | **Long-Term Senior Debt** | Aa3 | A1 | A3 | A1 |
 | **Short-Term Debt** | P-1 | P-1 | P-2 | P-1 |
 
-My observations:
+Observations:
 - JPMorgan Chase outperforms its competitors in every category.
 - JPMorgan Chase far exceeds its competitors in AI/ML investment.
 - JPMorgan Chase leadership has a clear vision of where they want to go and they moving at an accelerated pace compare with their competitors.
 
-## Recommendations
+## Recommendation
 
 - JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and moving at an accelerated pace to deliver.
-- My recommendation would be that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the captial to invest like JPMorgan Chase has.
-- Common areas that won't impact competitive advantage are:
-1. Risk Management
-2. Fraud Detection
-3. Cyber Security
-4. Regulatory Reporting
+- I recommend that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the captial to invest like JPMorgan Chase has.  Common areas that won't impact competitive advantage are:
+    - Risk Management
+    - Fraud Detection
+    - Cyber Security
+    - Regulatory Reporting
