@@ -115,7 +115,7 @@ The key pillars of the JPMorgan Chase are:
 - Artificial Intelligence and Machine Learning
 - Hyper-automated banking with Robotic Process Automation (RPA)
 - Buy Now Pay Later (BNPL) 2.0
-- Futher advent of cloud and digitalization in financial services
+- Further advent of cloud and digitalization in financial services
 - Distributed Ledger Technology (DLT)
 - Regulatory Technology (RegTech)
 - Metaverse in finance
@@ -128,18 +128,18 @@ JPMorgan Chase major competitors are:
 - Citigroup
 - Wells Fargo
 
-JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
+JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
 
 ## Business Impact, Financial Performance, and Competitive Analysis
 
 ### Business Impact
 
 JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  How they intend to do it:
-- **Community Development** - Through lending, investment and philanthropic capital, we’re supporting affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
-- **Careers & Skills** - From employee upskilling to policy advocacy, we’re investing in people by equipping them with the tools and skills they need to prepare them for the future of work.
-- **Business Growth & Entrepreneurship** - We’re boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
-- **Financial Health & Wealth Creation** - We’re opening access to banking in underserved communities and partnering with community organizations to help all generations create a vision and foundation for their financial future.
-- **Environmental Sustainability** - We’re applying our capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. [JPMorgan Chase](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow. "JPMorgan Chase Our Impact")
+- **Community Development** - Through lending, investment and philanthropic capital, they’re supporting affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
+- **Careers & Skills** - From employee upskilling to policy advocacy, they are investing in people by equipping them with the tools and skills they need to prepare them for the future of work.
+- **Business Growth & Entrepreneurship** - Boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
+- **Financial Health & Wealth Creation** - Opening access to banking in underserved communities and partnering with community organizations to help all generations create a vision and foundation for their financial future.
+- **Environmental Sustainability** - Applying their capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. [JPMorgan Chase](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow. "JPMorgan Chase Our Impact")
 
 ### Competitive Analysis
 
@@ -162,14 +162,14 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 | **Short-Term Debt** | P-1 | P-1 | P-2 | P-1 |
 
 Observations:
-- JPMorgan Chase outperforms its competitors in every category.
+- JPMorgan Chase outperforms its competitors in virtually every category.
 - JPMorgan Chase far exceeds its competitors in AI/ML investment.
-- JPMorgan Chase leadership has a clear vision of where they want to go and they moving at an accelerated pace compare with their competitors.
+- JPMorgan Chase leadership has a clear vision of where they want to go and they moving at an accelerated pace when compared with their competitors.
 
 ## Recommendation
 
-- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and moving at an accelerated pace to deliver.
-- I recommend that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the captial to invest like JPMorgan Chase has.  Common areas that won't impact competitive advantage are:
+- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and are moving at an accelerated pace to deliver.
+- I recommend that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the capital to invest that JPMorgan Chase has.  Common areas that won't impact competitive advantage are:
     - Risk Management
     - Fraud Detection
     - Cyber Security
