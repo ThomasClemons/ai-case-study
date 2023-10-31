@@ -3,6 +3,7 @@ Assignment for AI/ML Bootcamp Module 1 Challenge
 # Case Study:  JPMorgan Chase & Co. 
 
 ![JPM logo](JPM_logo.png)
+<img src="JPM_logo.png" alt="JPM logo" width="100"/>
 
 ## Overview and Origin
 
