@@ -222,16 +222,16 @@ Observations:
 
 ## References OPtion 2
 
-**JPMorgan Chase**
-JPMorgan Chase Company Website - [https://www.jpmorganchase.com](https://www.jpmorganchase.com)
-JPMorgan Chase Earnings - [https://www.jpmorganchase.com/ir/quarterly-earnings](https://www.jpmorganchase.com/ir/quarterly-earnings)
-JPMorgan Chase CEO Letter - [https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues)
-JPMorgan Chase 2022 Annual Report - [https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf)
-Jamie Dimon Profile - [https://www.jpmorganchase.com/about/our-leadership/jamie-dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon) 
-JPMorgan Chase Background and History - [https://www.jpmorganchase.com/about/our-history](https://www.jpmorganchase.com/about/our-history)
-JPMorgan Chase Business Impact - [https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.)
-JPMorgan Chase Digital Transformation using AI Article - [https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf)
-JPMorgan Chase Wikipedia - [https://en.wikipedia.org/wiki/JPMorgan_Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase)
-JPMorgan Chase Yahoo Finance - [https://finance.yahoo.com/quote/JPM?p=JPM](https://finance.yahoo.com/quote/JPM?p=JPM)
-JPMorgan Chase MarketWatch - [https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab](https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab)
-JPMorgan Chase Fortress Balance Sheet Video - [https://www.youtube.com/watch?v=txvlBy3e2DA](https://www.youtube.com/watch?v=txvlBy3e2DA)
+**JPMorgan Chase**  
+- JPMorgan Chase Company Website - [https://www.jpmorganchase.com](https://www.jpmorganchase.com)
+- JPMorgan Chase Earnings - [https://www.jpmorganchase.com/ir/quarterly-earnings](https://www.jpmorganchase.com/ir/quarterly-earnings)
+- JPMorgan Chase CEO Letter - [https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues)
+- JPMorgan Chase 2022 Annual Report - [https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf)
+- Jamie Dimon Profile - [https://www.jpmorganchase.com/about/our-leadership/jamie-dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon) 
+- JPMorgan Chase Background and History - [https://www.jpmorganchase.com/about/our-history](https://www.jpmorganchase.com/about/our-history)
+- JPMorgan Chase Business Impact - [https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.)
+- JPMorgan Chase Digital Transformation using AI Article - [https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf)
+- JPMorgan Chase Wikipedia - [https://en.wikipedia.org/wiki/JPMorgan_Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase)
+- JPMorgan Chase Yahoo Finance - [https://finance.yahoo.com/quote/JPM?p=JPM](https://finance.yahoo.com/quote/JPM?p=JPM)
+- JPMorgan Chase MarketWatch - [https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab](https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab)
+- JPMorgan Chase Fortress Balance Sheet Video - [https://www.youtube.com/watch?v=txvlBy3e2DA](https://www.youtube.com/watch?v=txvlBy3e2DA)
