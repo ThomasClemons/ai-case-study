@@ -124,9 +124,9 @@ The key pillars of the JPMorgan Chase are:
 ### Major Competitors
 
 JPMorgan Chase major competitors are:
-- Bank of America
-- Citigroup
-- Wells Fargo
+- [Bank of America](https://about.bankofamerica.com/en "Learn about Bank of America")
+- [Citigroup](https://www.citigroup.com/global "Learn about Citigroup")
+- [Wells Fargo](https://www.wellsfargo.com/about/ "Learn about Wells Fargo")
 
 JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
 
