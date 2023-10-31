@@ -144,7 +144,7 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 ### Competitive Analysis
 
 **Financial Performance - JPMorgan Chase vs Major Competitors**
-| **Key Indicators** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/quarterly-earnings) | [Bank of America](https://investor.bankofamerica.com/quarterly-earnings) | [Citigroup](https://www.citigroup.com/global/investors/quarterly-earnings) | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/) | 
+| **Key Indicators** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/quarterly-earnings "JPMorgan Chase Earnings") | [Bank of America](https://investor.bankofamerica.com/quarterly-earnings "Bank of America Earnings") | [Citigroup](https://www.citigroup.com/global/investors/quarterly-earnings "Citigroup Earnings") | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/ "Wells Fargo Earnings") | 
 | --- | :-: | :-: | :-: | :-: |
 | **Net Income ($ billions)** | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
 | **Diluted EPS ($)** | $ 12.09 | $ 3.19B | $ 7.00 | $ 3.14 |
@@ -155,7 +155,7 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 
 
 **Credit Quality - JPMorgan Chase vs Major Competitors**
-| **Company** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/fixed-income) | [Bank of America](https://investor.bankofamerica.com/fixed-income/credit-ratings) | [Citigroup](https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings) | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/credit-ratings/) | 
+| **Company** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/fixed-income "JPMorgan Chase Credit Ratings") | [Bank of America](https://investor.bankofamerica.com/fixed-income/credit-ratings "Bank of America Credit Ratings") | [Citigroup](https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings "Citigroup Credit Ratings") | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/credit-ratings/ "Wells Fargo Credit Ratings") | 
 | --- | :-: | :-: | :-: | :-: |
 | **Outlook** | Stable | Stable | Stable | Stable |
 | **Long-Term Issuer Rating** | Aa3 | A1 | A3 | A1 |
