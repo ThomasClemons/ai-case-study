@@ -29,7 +29,6 @@ JPMorgan Chase & Co. is an American multinational financial services firm headqu
 | **Revenue** $157.54B | **Net Income** $37.49B |
 | **Sales Growth** 24.82% | |
 
-
 ### Company History
 
 **Company Incorporation:**  
@@ -72,7 +71,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 
 **Business Segment Contribution to Company Profitability (Year-end 2022)**
 
-| Business Segment| Net Income ($ millions) | % Contribution to Company Income | 
+| **Business Segment** | **Net Income ($ millions)** | **% Contribution to Company Income** | 
 | --- | :-: | :-: |
 | Community Banking (CCB) | $ 14,871 | 38.7 % |
 | Corporate & Investment Bank (CIB) | $ 14,970 | 39.0 % |
@@ -98,11 +97,10 @@ From top to bottom JPMorgan Chase is firmly committed to AI.  My research identi
 - The Technology budget has grown at a 7% annually over that last four years. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 The key pillars of the JP Morgan Chase are:
-- Application Renewal - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
-- Infrastructure Modernization - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
-- Engineering - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
-- Data and AI - AI has helped JPMorgan Chase deliver more personlized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
-
+-**Application Renewal** - The bank has decommissioned over 2,500 legacy applications since 2017.  The bank also increased the number of SaaS applications by 14% to 560.
+- **Infrastructure Modernization** - 60% of applications have been moved to new data centers.  38% have been moved to the cloud.
+- **Engineering** - Implemented Agile development practices and equipped 43,000 engineers with modern tools to boost productivity.
+- **Data and AI** - AI has helped JPMorgan Chase deliver more personlized products and experiences that provided $320 million in benefits last year. [Constellation Insights](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
 
 ## Financial Services Landscape
 
@@ -121,50 +119,54 @@ The key pillars of the JP Morgan Chase are:
 
 ### Major Competitors
 
-JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.  A chart of key financial performance indicators and metrics follow in the chart below.
+The major competitors for JP Morgan Chase are:
+- Bank of America
+- Citigroup
+- and Wells Fargo
+
+JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JP Morgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.These banks have over $1.7T in total assets.  Their size and scale have often led to enhanced regulatory oversight.
+
+## Business Impact, Financial Performance, and Competitive Analysis
+
+### Business Impact
+
+JPMorgan Chase is committed to helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.  How they intend to do it:
+- **Community Development** - Through lending, investment and philanthropic capital, we’re supporting affordable housing and helping the underserved communities of today become flourishing communities tomorrow. 
+- **Careers & Skills** - From employee upskilling to policy advocacy, we’re investing in people by equipping them with the tools and skills they need to prepare them for the future of work.
+- **Business Growth & Entrepreneurship** - We’re boosting the next generation of big, small, and minority-owned businesses-offering them dedicated support and access to capital and resources.
+- **Financial Health & Wealth Creation** - We’re opening access to banking in underserved communities and partnering with community organizations to help all generations create a vision and foundation for their financial future.
+- **Environmental Sustainability** - We’re applying our capital, data, and expertise to help protect the environment, address climate change, and promote long-term, innovative solutions for a more sustainable future. 
+
+### Competitive analysis
 
 **Financial Performance - JPMorgan vs Major Competitors**
-| Key Indicators| JPMorgan | Bank of America | Citigroup | Wells Fargo | 
+| **Key Indicators** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
 | --- | :-: | :-: | :-: | :-: |
-| Net Income ($ billions) | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
-| Diluted EPS ($) | $ 12.09 | $ 3.19B | $ 7.00 | $ 3.14 |
-| ROTCE | 17.7% | 15.1% | 8.9% | 9.0% |
-| Total Assets ($ billions) | $ 3.67T | $ 3.05T | $ 2.4T | $1.88T |
-| Market Cap ($ billions) | $ 394.3B | $ 199.4B | $ 73.2B | $ 141.0B |
-| Technology Expense ($ billions) | $ 9.4B | $ 3.6B | $ 8.6B | $3.4B |
+| **Net Income ($ billions)** | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
+| **Diluted EPS ($)** | $ 12.09 | $ 3.19B | $ 7.00 | $ 3.14 |
+| **ROTCE** | 17.7% | 15.1% | 8.9% | 9.0% |
+| **Total Assets ($ billions)** | $ 3.67T | $ 3.05T | $ 2.4T | $1.88T |
+| **Market Cap ($ billions)** | $ 394.3B | $ 199.4B | $ 73.2B | $ 141.0B |
+| **Technology Expense ($ billions)** | $ 9.4B | $ 3.6B | $ 8.6B | $3.4B |
 
 **Moody's Credit Quality - JPMorgan vs Major Competitors**
-| Company |  JPMorgan | Bank of America | Citigroup | Wells Fargo | 
+| **Company** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
 | --- | :-: | :-: | :-: | :-: |
-| Outlook | Stable | Stable | Stable | Stable |
-| Long-Term Senior Debt | Aa3 | A1 | A3 | A1 |
-| Short-Term Debt | P-1 | P-1 | P-2 | P-1 |
+| **Outlook** | Stable | Stable | Stable | Stable |
+| **Long-Term Senior Debt** | Aa3 | A1 | A3 | A1 |
+| **Short-Term Debt** | P-1 | P-1 | P-2 | P-1 |
 
-
-## Business Impact and Financial Performance
-
-### JPM Business Impact
-- Include historical impact
-- More current impact
-
-### Core Metrics used to measure Financial Services success?
-
-### Competitive analysis of how JPM performing vs. the competitors
+My observations:
+- JPMorgan Chase outperforms its competitors in every category.
+- JPMorgan Chase far exceeds its competitors in AI/ML investment.
+- JPMorgan Chase leadership has a clear vision of where they want to go and they moving at an accelerated pace compare with their competitors.
 
 ## Recommendations
 
-### Recommendation 1
-
-- **What products and services would I suggest JPM offer?**
-- **Why would these products and services benefit JPM?**
-- **What technology would this new product or service require?**
-- **Why are the technologies appropriate for my solution?**
-
-### Recommendation 2
-
-- **What products and services would I suggest JPM offer?**
-- **Why would these products and services benefit JPM?**
-- **What technology would this new product or service require?**
-- **Why are the technologies appropriate for my solution?**
-
-**END OF FILE**
+- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and moving at an accelerated pace to deliver.
+- My recommendation would be that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the captial to invest like JPMorgan Chase has.
+- Common areas that won't impact competitive advantage are:
+1. Risk Management
+2. Fraud Detection
+3. Cyber Security
+4. Regulatory Reporting
