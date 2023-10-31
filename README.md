@@ -175,7 +175,7 @@ Observations:
     - Cybersecurity
     - Regulatory Reporting
 
-## References
+## References Option 1 - Table
 
 | **Source** | **URL** |
 | --- | ---|
@@ -212,17 +212,18 @@ Observations:
 | Wells Fargo 2022 Annual Report | [https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf](https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf) |
 | Wells Fargo Yahoo Finance | [https://finance.yahoo.com/quote/WFC?p=WFC](https://finance.yahoo.com/quote/WFC?p=WFC) |
 | | |
-| Other Information: | |
+| Other: | |
 | The Manhattan Company Wikipedia | [https://en.wikipedia.org/wiki/Manhattan_Company](https://en.wikipedia.org/wiki/Manhattan_Company) |
 | Systemically Important Financial Institutions | [https://en.wikipedia.org/wiki/Systemically_important_financial_institution](https://en.wikipedia.org/wiki/Systemically_important_financial_institution) |
 | Big Four Description | [https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States) |
 | Fortress Balance Sheet Description Video | [https://www.youtube.com/watch?v=G8DvO205ZU0](https://www.youtube.com/watch?v=G8DvO205ZU0) |
 | Financial Services Trends & Innovation 2023 | [https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services.](https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services.) |
 | Stock Information on MacroTrends | [https://www.macrotrends.net/stocks/research](https://www.macrotrends.net/stocks/research) |
+| How to use Markdown language | [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/) |
 
-## References OPtion 2
+## References Option 2 - List
 
-**JPMorgan Chase**  
+**JPMorgan Chase:**  
 - JPMorgan Chase Company Website - [https://www.jpmorganchase.com](https://www.jpmorganchase.com)
 - JPMorgan Chase Earnings - [https://www.jpmorganchase.com/ir/quarterly-earnings](https://www.jpmorganchase.com/ir/quarterly-earnings)
 - JPMorgan Chase CEO Letter - [https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm#specific-issues)
@@ -235,3 +236,31 @@ Observations:
 - JPMorgan Chase Yahoo Finance - [https://finance.yahoo.com/quote/JPM?p=JPM](https://finance.yahoo.com/quote/JPM?p=JPM)
 - JPMorgan Chase MarketWatch - [https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab](https://www.marketwatch.com/investing/stock/jpm?mod=mw_quote_tab)
 - JPMorgan Chase Fortress Balance Sheet Video - [https://www.youtube.com/watch?v=txvlBy3e2DA](https://www.youtube.com/watch?v=txvlBy3e2DA)
+
+**Bank of America:**  
+- Bank of America Company Website - [https://about.bankofamerica.com/en](https://about.bankofamerica.com/en)
+- Bank of America Earnings - [https://investor.bankofamerica.com/quarterly-earnings](https://investor.bankofamerica.com/quarterly-earnings)
+- Bank of America 2022 Annual Report - [https://investor.bankofamerica.com/regulatory-and-other-filings/annual-reports/content/0000070858-23-000121/0000070858-23-000121.pdf](https://investor.bankofamerica.com/regulatory-and-other-filings/annual-reports/content/0000070858-23-000121/0000070858-23-000121.pdf)
+- Bank of America Yahoo Finance - [https://finance.yahoo.com/quote/BAC?p=BAC](https://finance.yahoo.com/quote/BAC?p=BAC)
+
+**Citigroup:**  
+- Citigroup Company Website - [https://www.citigroup.com/global](https://www.citigroup.com/global)
+- Citigroup Earnings - [https://www.citigroup.com/global/investors/quarterly-earnings](https://www.citigroup.com/global/investors/quarterly-earnings)
+- Citgroup Earnings - [https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf)
+- Citigroup 2022 Annual Report - [https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf)
+- Citigroup Yahoo Finance - [https://finance.yahoo.com/quote/C?p=C](https://finance.yahoo.com/quote/C?p=C)
+
+**Wells Fargo:**  
+- Wells Fargo Company Website - [https://www.wellsfargo.com/about/](https://www.wellsfargo.com/about/)
+- Wells Fargo Earnings - [https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/](https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/)
+- Wells Fargo 2022 Annual Report - [https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf](https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf)
+- Wells Fargo Yahoo Finance - [https://finance.yahoo.com/quote/WFC?p=WFC](https://finance.yahoo.com/quote/WFC?p=WFC)
+
+**Other:**  
+- The Manhattan Company Wikipedia - [https://en.wikipedia.org/wiki/Manhattan_Company](https://en.wikipedia.org/wiki/Manhattan_Company)
+- Systemically Important Financial Institutions - [https://en.wikipedia.org/wiki/Systemically_important_financial_institution](https://en.wikipedia.org/wiki/Systemically_important_financial_institution)
+- Big Four Description - [https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States)
+- Fortress Balance Sheet Description Video - [https://www.youtube.com/watch?v=G8DvO205ZU0](https://www.youtube.com/watch?v=G8DvO205ZU0)
+- Financial Services Trends & Innovation 2023 - [https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services.](https://www.linkedin.com/pulse/latest-trends-finance-industry-syedsameer-ali#:~:text=Latest%20trends%20in%20the%20finance,non%2Dfinancial%20products%20and%20services.)
+- Stock Information on MacroTrends - [https://www.macrotrends.net/stocks/research](https://www.macrotrends.net/stocks/research)
+- How to use Markdown language - [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
