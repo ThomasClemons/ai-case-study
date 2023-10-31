@@ -128,7 +128,7 @@ Major Competitors of JPMorgan Chase are:
 - [Citigroup](https://www.citigroup.com/global "Learn about Citigroup")
 - [Wells Fargo](https://www.wellsfargo.com/about/ "Learn about Wells Fargo")
 
-JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  This size and scale has often led to enhanced regulatory oversight.
+JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo are the [Big Four](https://en.wikipedia.org/wiki/Big_Four_(banking)#United_States "JPMorgan Chase, Bank of America, Citigroup, and Wells Fargo") banks.  These firms are considered [systemically important](https://en.wikipedia.org/wiki/Systemically_important_financial_institution "a bank, insurance company, or other financial institution whose failure might trigger a financial crisis.") by the Financial Stability Board.  These banks have over $1.7T in total assets.  This size and scale have often led to enhanced regulatory oversight.
 
 ## Business Impact, Financial Performance, and Competitive Analysis
 
@@ -164,7 +164,7 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 Observations:
 - JPMorgan Chase outperforms its competitors in virtually every category.
 - JPMorgan Chase far exceeds its competitors in AI/ML investment.
-- JPMorgan Chase leadership has a clear vision of where it wants to go and it is moving at an accelerated pace when compared with its competitors.
+- JPMorgan Chase leadership has a clear vision of where it wants to go and it's moving at an accelerated pace when compared with its competitors.
 
 ## Recommendation
 
@@ -178,7 +178,7 @@ Observations:
     - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up industry growth in AI/ML.
     - **Reduced Technology cost** - Most US banks have limited capital and can only fund the staff and supporting technologies for small, incremental advancements in AI/ML.  Sharing insights with other banks can lead to larger, more significant advancements in AI/ML across the industry, allowing banks to better leverage available capital.
     - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk by making systems more secure and reducing credit losses.
-    - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet rigorous, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify regulatory rule changes and overlaps between different regulatory reports to accelerate business process and regulatory reporting changes to maintain compliance. 
+    - **Better compliance with Regulatory Reporting Requirements** - It's critical that banks meet rigorous, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify regulatory rule changes and overlaps between different regulatory reports to accelerate business process and regulatory reporting changes to maintain compliance. 
 
 ## References
 
