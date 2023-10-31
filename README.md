@@ -144,7 +144,7 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 ### Competitive Analysis
 
 **Financial Performance - JPMorgan Chase vs Major Competitors**
-| **Key Indicators** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
+| **Key Indicators** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/quarterly-earnings) | [Bank of America](https://investor.bankofamerica.com/quarterly-earnings) | [Citigroup](https://www.citigroup.com/global/investors/quarterly-earnings) | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/) | 
 | --- | :-: | :-: | :-: | :-: |
 | **Net Income ($ billions)** | $ 37.7 | $ 27.5B | $ 14.8B | $ 13.2B |
 | **Diluted EPS ($)** | $ 12.09 | $ 3.19B | $ 7.00 | $ 3.14 |
@@ -154,12 +154,12 @@ JPMorgan Chase is committed to helping to power economic growth by breaking down
 | **Technology Expense ($ billions)** | $ 9.4B | $ 3.6B | $ 8.6B | $3.4B |
 
 
-**Moody's Credit Quality - JPMorgan Chase vs Major Competitors**
-| **Company** | **JPMorgan Chase** | **Bank of America** | **Citigroup** | **Wells Fargo** | 
+**Credit Quality - JPMorgan Chase vs Major Competitors**
+| **Company** | [JPMorgan Chase](https://www.jpmorganchase.com/ir/fixed-income) | [Bank of America](https://investor.bankofamerica.com/fixed-income/credit-ratings) | [Citigroup](https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings) | [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/credit-ratings/) | 
 | --- | :-: | :-: | :-: | :-: |
 | **Outlook** | Stable | Stable | Stable | Stable |
-| **Long-Term Senior Debt** | Aa3 | A1 | A3 | A1 |
-| **Short-Term Debt** | P-1 | P-1 | P-2 | P-1 |
+| **Long-Term Issuer Rating** | Aa3 | A1 | A3 | A1 |
+| **Short-Term Issuer Rating** | P-1 | P-1 | P-2 | P-1 |
 
 Observations:
 - JPMorgan Chase outperforms its competitors in virtually every category.
@@ -168,12 +168,17 @@ Observations:
 
 ## Recommendation
 
-- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and are moving at an accelerated pace to deliver.
-- I recommend that JPMorgan Chase share their AI and ML insights with other US banks.  These banks will never have the capital to invest that JPMorgan Chase has.  Common areas that won't impact competitive advantage are:
+- JPMorgan Chase is head and shoulders above all financial services companies in the US.  They have a clear vision and are moving at an accelerated pace to deliver on their goals.
+- I recommend that JPMorgan Chase share their AI and ML insights with other US banks in areas the will not impact their competitive advantage.  Common areas that won't impact competitive advantage are:
     - Risk Management
     - Fraud Detection
     - Cybersecurity
     - Regulatory Reporting
+- The US banking system would benefit in the following ways:
+    - **Accelerated knowledge growth in AI/ML** - Most US banks don't have the scale or resources to make advancements in AI/ML as quickly as JPMorgan Chase can.  Sharing insights with these banks would speed up their growth in AI/ML.
+    - **Reduced Technology cost** - Most US banks have limited capital to fund staff and supporting technoloy for AI/ML.  Sharing insights with other banks will allow them to preserve captital and allocate it where it is needed.
+    - **More secure banking business processes and infrastructure** - Banks would have valuable insight for implementing AI/ML to reduce business risk, make systems more secure, and reduce fraud losses.
+    - **Better compliance with Regulatory Reporting Requirements** - It is critical that banks meet our rigorus, complicated regulatory reporting requirements.  Banks would have valuable insight for implementing AI/ML to identify rule changes and overlaps between different regulatory reports to accelerate business process and reporting changes to maintain compliance. 
 
 ## References
 
@@ -184,6 +189,7 @@ Observations:
 - JPMorgan Chase 2022 Annual Report - [https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf)
 - Jamie Dimon Profile - [https://www.jpmorganchase.com/about/our-leadership/jamie-dimon](https://www.jpmorganchase.com/about/our-leadership/jamie-dimon) 
 - JPMorgan Chase Background and History - [https://www.jpmorganchase.com/about/our-history](https://www.jpmorganchase.com/about/our-history)
+- JPMorgan Chase Fixed Income Ratings - [https://www.jpmorganchase.com/ir/fixed-income](https://www.jpmorganchase.com/ir/fixed-income)
 - JPMorgan Chase Business Impact - [https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.](https://careers.jpmorgan.com/us/en/about-us#:~:text=Our%20Impact&text=Through%20lending%2C%20investment%20and%20philanthropic,today%20become%20flourishing%20communities%20tomorrow.)
 - JPMorgan Chase Digital Transformation using AI Article - [https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf)
 - JPMorgan Chase Wikipedia - [https://en.wikipedia.org/wiki/JPMorgan_Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase)
@@ -195,6 +201,7 @@ Observations:
 - Bank of America Company Website - [https://about.bankofamerica.com/en](https://about.bankofamerica.com/en)
 - Bank of America Earnings - [https://investor.bankofamerica.com/quarterly-earnings](https://investor.bankofamerica.com/quarterly-earnings)
 - Bank of America 2022 Annual Report - [https://investor.bankofamerica.com/regulatory-and-other-filings/annual-reports/content/0000070858-23-000121/0000070858-23-000121.pdf](https://investor.bankofamerica.com/regulatory-and-other-filings/annual-reports/content/0000070858-23-000121/0000070858-23-000121.pdf)
+- Bank of America Fixed Income Ratings - [https://investor.bankofamerica.com/fixed-income/credit-ratings](https://investor.bankofamerica.com/fixed-income/credit-ratings)
 - Bank of America Yahoo Finance - [https://finance.yahoo.com/quote/BAC?p=BAC](https://finance.yahoo.com/quote/BAC?p=BAC)
 
 **Citigroup:**  
@@ -202,12 +209,14 @@ Observations:
 - Citigroup Earnings - [https://www.citigroup.com/global/investors/quarterly-earnings](https://www.citigroup.com/global/investors/quarterly-earnings)
 - Citgroup Earnings - [https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/20230113-4Q22%20Earnings%20Presentation_20230224.pdf)
 - Citigroup 2022 Annual Report - [https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf](https://www.citigroup.com/rcs/citigpa/storage/public/citi-2022-annual-report.pdf)
+- Citigroup Fixed Income Ratings - [https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings](https://www.citigroup.com/global/investors/fixed-income-investor-relations/credit-ratings)
 - Citigroup Yahoo Finance - [https://finance.yahoo.com/quote/C?p=C](https://finance.yahoo.com/quote/C?p=C)
 
 **Wells Fargo:**  
 - Wells Fargo Company Website - [https://www.wellsfargo.com/about/](https://www.wellsfargo.com/about/)
 - Wells Fargo Earnings - [https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/](https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/)
 - Wells Fargo 2022 Annual Report - [https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf](https://www.wellsfargo.com/assets/pdf/about/investor-relations/annual-reports/2022-annual-report.pdf)
+- Wells Fargo Fixed Income Ratings - [https://www.wellsfargo.com/about/investor-relations/credit-ratings/](https://www.wellsfargo.com/about/investor-relations/credit-ratings/)
 - Wells Fargo Yahoo Finance - [https://finance.yahoo.com/quote/WFC?p=WFC](https://finance.yahoo.com/quote/WFC?p=WFC)
 
 **Other:**  
