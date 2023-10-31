@@ -85,7 +85,7 @@ JP Morgan & Co. does an excellent job of managing their capital to offer a broad
 
 ### Company Technologies and Investment
 
-**Company Commitment to AI**
+**Company Commitment to AI**  
 > Artificial intelligence (AI) is an extraordinary and groundbreaking technology. AI and the raw material that feeds it, data, will be critical to our company’s future success — the importance of implementing new technologies simply cannot be overstated. [Jamie Dimon, JPMorgan Chase Chariman and CEO](https://reports.jpmorganchase.com/investor-relations/2022/ar-ceo-letters.htm# "JPMorgan Chase & Co. 2022 Annual Report CEO Letter")
 
 > We have made tremendous progress building what we believe is a competitive advantage for JPMorgan Chase. We have over 900 data scientists, 600 machine learning engineers and about 1,000 people involved in data management. We also have a 200-person top notch AI research team looking at the hardest problems in the new frontiers of finance.  [Lori Beer, Global CIO at JPMogan Chase](https://www.constellationr.com/system/files/uploads/user-23065/Insights%20Template_JPMorgan.pdf "Constellation Insights - CUSTOMER STORY: JPMORGAN CHASE")
